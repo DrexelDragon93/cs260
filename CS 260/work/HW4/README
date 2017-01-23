@@ -1,0 +1,20 @@
+Adam Jablonski
+CS260 - HW4
+
+
+I have provided post.input, in.input, pre.input based on the examples
+provided by the proffessor, of course they can be overwritten.  
+
+My code evalaues postfix, infix, and prefix inputs as well as evaluates the
+expression.  For infix notation it does not recognize parensises however
+does work for any other expression.
+
+The class defintions are: tree.py, stack.py
+
+Also included are the provided file: lexer.py
+
+Problem1.py holds all the methods.
+
+post.py, in.py, pre.py, and eval.py print out the answers in the format requested.
+
+The make file can run it.
